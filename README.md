@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Chișinău](https://badgen.net/badge/Chișinău/Moldova?color=cyan&scale=2&style=flat)](https://playing-with-fastapi.vercel.app/weather/chisinau)
+[![Chișinău](https://badgen.net/badge/Chișinău/Republic%20of%20Moldova?color=cyan&scale=2&style=flat)](https://playing-with-fastapi.vercel.app/weather/chisinau)
 
 
 ## 🚀 About Me
