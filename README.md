@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Chisinau](https://playing-with-fastapi.vercel.app/weather/chisinau)](https://playing-with-fastapi.vercel.app/weather/chisinau)
+[![Chișinău](https://badgen.net/badge/Weather/Chisinau/Sunny?color=yellow)](https://playing-with-fastapi.vercel.app/weather/chisinau)
 
 
 ## 🚀 About Me
