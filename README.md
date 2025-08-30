@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Chisinau](https://playing-with-fastapi.vercel.app/weather/chisinau)](https://playing-with-fastapi.vercel.app/weather/chisinau)
+![Chisinau](https://playing-with-fastapi.vercel.app/weather/chisinau)](https://playing-with-fastapi.vercel.app/weather/chisinau)
 
 
 ## 🚀 About Me
