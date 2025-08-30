@@ -15,6 +15,11 @@ Developer exploring web development and mastering **TypeScript**.
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 ## 🌱 Current Focus
+- Learning **TypeScript**
+- Exploring **web development**
+- Practicing **web scraping**
+- Developing **bots**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=magwaer-dev&show_icons=true&theme=tokyonight)
 
 <div align="center" style="font-size: 30px; font-family: Papyrus,fantasy;">
