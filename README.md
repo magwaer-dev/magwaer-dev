@@ -16,3 +16,16 @@ Developer exploring web development and mastering **TypeScript**.
 
 ## 🌱 Current Focus
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=magwaer-dev&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <span style="
+    display: inline-block;
+    border: 3px solid #4CAF50;
+    border-radius: 50%;
+    padding: 30px 50px;
+    font-size: 32px;
+    font-weight: bold;
+  ">
+    Magwaer
+  </span>
+</p>
