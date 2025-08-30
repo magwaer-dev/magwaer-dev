@@ -20,6 +20,7 @@ Developer exploring web development and mastering **TypeScript**.
 - Practicing **web scraping**
 - Developing **bots**
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=magwaer-dev&show_icons=true&theme=tokyonight)
 
 <div align="center" style="font-size: 30px; font-family: Papyrus,fantasy;">
