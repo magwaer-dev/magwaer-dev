@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Chișinău](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/chisinau)
+[![Chișinău](https://badgen.net/badge/Weather/Chișinău/Sunny?color=cyan)](https://playing-with-fastapi.vercel.app/weather/chisinau)
 
 
 ## 🚀 About Me
