@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Chișinău](https://badgen.net/badge/Chișinău/Moldova?color=cyan)](https://playing-with-fastapi.vercel.app/weather/chisinau)
+## [![Chișinău](https://badgen.net/badge/Chișinău/Moldova?color=cyan)](https://playing-with-fastapi.vercel.app/weather/chisinau)
 
 
 ## 🚀 About Me
@@ -8,7 +8,7 @@ Developer exploring web development and mastering **TypeScript**.
 
 ## 💻 Tech Stack
 
-###Learning:
+### Learning:
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ### Previous Experience:
